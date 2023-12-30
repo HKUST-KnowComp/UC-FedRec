@@ -5,7 +5,7 @@ Source Code for WSDM2024 paper "User Consented Federated Recommender System Agai
 ## Introduction
 We propose user-consented federated recommender systems (UC-FedRec) against attribute inference attacks to meet the personalized privacy demands of clients. The framework learns a set of attribute information filters to eliminate sensitive information to protect clients' personal attributes from attackers' malicious inferences.
 
-![PVGAE](figure/framework.png)
+![PVGAE](framework_UCFedRec.png)
 
 ## Reproduction
 

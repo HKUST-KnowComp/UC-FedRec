@@ -29,7 +29,7 @@ Unzip the file and put it under the root directory of this project.
 UC-FedRec sample usage at Movielens dataset:
 
 ```bash
-python main.py --layer_size [128] --batch_size 256 --embed_size 128 --Ks [10] --gpu 3 --lr 0.0001 --model_name sgd_model_run4_1.pkl
+python main_UC_ML.py --layer_size [128] --batch_size 256 --embed_size 128 --Ks [10] --gpu 3 --lr 0.0001 --model_name sgd_model_run4_1.pkl
 ```
 
 
